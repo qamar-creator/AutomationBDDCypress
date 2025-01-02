@@ -63,7 +63,7 @@ To run the tests on your machine, follow these steps:
 
 2. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/qamar-creator/AutomationBDDCypress.git
    cd <repository-directory>
    ```
 
