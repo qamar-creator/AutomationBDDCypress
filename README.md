@@ -89,4 +89,4 @@ To run the tests on your machine, follow these steps:
 - **package.json**: Contains project metadata and dependencies.
 - **package-lock.json**: Locks the versions of dependencies.
 
-This README provides an overview of the project structure for better understanding and navigation.
+This README provides an overview of the project structure for better understanding & navigation.
