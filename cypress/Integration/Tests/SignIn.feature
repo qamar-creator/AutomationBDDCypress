@@ -14,7 +14,7 @@ Feature: User Sign In
     Scenario: Failed login with invalid password
         Given I am on the login page
         When I enter valid email "ulzaman415@gmail.com"
-        And I enter invalid password "wrongpassword"
+        And I enter invalid password "Wrongpassword"
         And I click the sign in button
         Then I should see an invalid credentials error message
 
